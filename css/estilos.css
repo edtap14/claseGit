@@ -1,0 +1,26 @@
+body{
+    /* background-color: white; */
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    margin: 0px;
+    padding:10px;
+    background:#24212a;
+}
+
+nav div{
+    float: right;
+}
+nav div a {
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color:white;
+    padding: 0px 30px;
+}
+#bedu-logo{
+    margin-left: 20px;
+    width: 50px;
+}
